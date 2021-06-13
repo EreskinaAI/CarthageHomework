@@ -1,0 +1,11 @@
+framework module FeaturesEA {
+  umbrella header "FeaturesEA.h"
+
+  export *
+  module * { export * }
+}
+
+module FeaturesEA.Swift {
+    header "FeaturesEA-Swift.h"
+    requires objc
+}

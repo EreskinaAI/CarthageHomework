@@ -1,0 +1,19 @@
+{
+  "commitish" : "1.0",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "5eefee57d27a55e99b58e174f2b4a2d8fe3df715980ae30fa59733e9fed4f4bb",
+      "name" : "FeaturesEA",
+      "container" : "FeaturesEA.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "bda9b2c730b1aa6164401a84b2dfd45fcdfaf58f338fa92328fa187ed6f6af4a",
+      "name" : "FeaturesEA",
+      "container" : "FeaturesEA.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    }
+  ]
+}
